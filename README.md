@@ -6,5 +6,5 @@ Export the express instance using default export syntax.
 
 Use the third-party package date-fns.
 
-Use Common JS module syntax..
+Use Common JS module syntax.
 
